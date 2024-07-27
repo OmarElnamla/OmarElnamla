@@ -10,7 +10,7 @@ I am a Computer Science, Software Engineering, student. Currently studying at UT
 * ✉️  You can contact me at [o.m.elnamla@gmail.com](mailto:o.m.elnamla@gmail.com)
 * 🧠  I'm learning C++ and other software engineering materials
 * 🤝  I'm open to collaborating on Projects related to my feild
-* ⚡  I enjoy editing videos and I think that I am pretty good at it!
+* ⚡  I enjoy playing sports
 
 <a href="https://github.com/OmarElnamla" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/OmarElnamla?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
