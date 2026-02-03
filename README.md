@@ -53,7 +53,6 @@ I am a Software Engineering student passionate about bridging the gap between te
 
 * **Fall Detection System:** An embedded systems project utilizing STM32F446 and ultrasonic sensors.
 * **GrowNet:** A UI/UX case study for a plant care management application.
-* **MyCoin:** A custom Solidity smart contract for token management.
 
 ---
 
