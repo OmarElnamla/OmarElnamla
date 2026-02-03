@@ -45,7 +45,7 @@ I am a Software Engineering student passionate about bridging the gap between te
   </a>
   </p>
 
-**Other Key Skills:** `Solidity` • `Polkadot` • `Assembly` • `STM32` • `Business Analysis`
+**Other Key Skills:**  • `C++` •  `Figma` • `Assembly` • `STM32` • `Business Analysis`
 
 ---
 
